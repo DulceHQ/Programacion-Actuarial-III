@@ -1,0 +1,54 @@
+---
+title: "KÃ¡rdex"
+author: "Dulce Hernandez Quiris"
+date: "7 de febrero de 2017"
+output:
+  word_document: default
+  html_document: default
+---
+
+### Otoño 2014
+
+- Programación Actuarial I............05
+- Intro. a la Profesión Actuarial.....06
+- DHPC................................09
+- Conceptos de Cálculo................08
+- Problemas de Mat. Básicas...........06
+- Problemas de Mat. Básicas...........06
+
+### Primavera 2015
+
+- Teoria del Interes I................07
+-	Microeconomia.......................08	
+- Lengua Extranjera I.................10
+- Calculo Diferencial.................09
+- Geometria Analitica.................08	
+- Teoria de Ecuaciones................06	
+
+### Otoño 2015
+
+- Programacion Actuarial I............05
+- Teoria del Interes II...............09	
+- Contabilidad General................08	
+- DHTIC...............................09
+- Calculo Integral....................05	
+- Algebra Lineal I....................09	
+
+### Primavera 2016
+
+- Programacion Actuarial..............09
+- Sistema Financiero Mexicano.........10
+- Macroeconomia.......................10	
+- Formacion Humana y Social...........08	
+- Calculo Integral....................05
+- Intr. a las Estr. Algebraicas.......05
+
+### Otoño 2016
+
+- Programacion Actuarial II...........09	
+- Derivados Financieros...............05	
+- Finanzas Corporativas...............07
+- Reg. Acad. y Cient. del Esp.........08	
+- Calculo Integral....................07
+- Intr. a las Estr. Algebraicas.......06
+
