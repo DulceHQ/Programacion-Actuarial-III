@@ -15,6 +15,9 @@ corr <- function(directorio, horizonte = 0){
     amor4 <- DIRF[complete.cases(DIRF), ]
     amor3 <- c(amor3, cor(amor4$sulfate, amor4$nitrate))
   }
-  return(cat3)
+  return(amor3)
 }
 corr("specdata", 1 )
+
+
+
